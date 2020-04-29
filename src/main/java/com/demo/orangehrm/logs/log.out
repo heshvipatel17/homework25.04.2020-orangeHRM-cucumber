@@ -1,0 +1,133 @@
+2020-04-26 19:04:38 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 19:04:791 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 19:04:679 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 19:04:671 INFO  HomePage :29 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (2369b58085cccc307600baa948dc6b69)] -> css selector: input#txtUsername]
+2020-04-26 19:04:783 INFO  HomePage :35 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (2369b58085cccc307600baa948dc6b69)] -> css selector: input#txtPassword]
+2020-04-26 19:04:982 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (2369b58085cccc307600baa948dc6b69)] -> css selector: input.button]
+2020-04-26 19:04:90 INFO  HomePage :46 -  Verify text is displayed Proxy element for: DefaultElementLocator 'By.cssSelector: div#logInPanelHeading'
+2020-04-26 19:04:668 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 19:04:197 INFO  HomePage :29 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (1cdce804cd6ac3fee040827c82e24d0a)] -> css selector: input#txtUsername]
+2020-04-26 19:04:286 INFO  HomePage :35 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (1cdce804cd6ac3fee040827c82e24d0a)] -> css selector: input#txtPassword]
+2020-04-26 19:04:523 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (1cdce804cd6ac3fee040827c82e24d0a)] -> css selector: input.button]
+2020-04-26 19:04:602 INFO  HomePage :46 -  Verify text is displayed Proxy element for: DefaultElementLocator 'By.cssSelector: div#logInPanelHeading'
+2020-04-26 19:04:481 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 19:04:287 INFO  HomePage :29 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (d7b9a5cd344f1bd11a32f9434e672ad7)] -> css selector: input#txtUsername]
+2020-04-26 19:04:411 INFO  HomePage :35 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (d7b9a5cd344f1bd11a32f9434e672ad7)] -> css selector: input#txtPassword]
+2020-04-26 19:04:699 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (d7b9a5cd344f1bd11a32f9434e672ad7)] -> css selector: input.button]
+2020-04-26 19:04:770 INFO  HomePage :46 -  Verify text is displayed [[ChromeDriver: chrome on WINDOWS (d7b9a5cd344f1bd11a32f9434e672ad7)] -> xpath: //a[@id='welcome']]
+2020-04-26 20:04:462 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 20:04:375 INFO  HomePage :29 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (7e668534b5a434e8e2af686b25900ce7)] -> css selector: input#txtUsername]
+2020-04-26 20:04:469 INFO  HomePage :35 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (7e668534b5a434e8e2af686b25900ce7)] -> css selector: input#txtPassword]
+2020-04-26 20:04:574 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (7e668534b5a434e8e2af686b25900ce7)] -> css selector: input.button]
+2020-04-26 20:04:605 INFO  AccountPage :25 -  Verify text is displayed [[ChromeDriver: chrome on WINDOWS (7e668534b5a434e8e2af686b25900ce7)] -> xpath: //a[@id='welcome']]
+2020-04-26 20:04:331 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 20:04:423 INFO  HomePage :29 -  Enter email:<string> into the field [[ChromeDriver: chrome on WINDOWS (b0451afe780ff9bffa15f94dce595def)] -> css selector: input#txtUsername]
+2020-04-26 20:04:526 INFO  HomePage :35 -  Enter password:<string> into the field [[ChromeDriver: chrome on WINDOWS (b0451afe780ff9bffa15f94dce595def)] -> css selector: input#txtPassword]
+2020-04-26 20:04:91 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (b0451afe780ff9bffa15f94dce595def)] -> css selector: input.button]
+2020-04-26 20:04:08 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 20:04:876 INFO  HomePage :29 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (a865a81415b2aeef3332a4ebd3b50c48)] -> css selector: input#txtUsername]
+2020-04-26 20:04:963 INFO  HomePage :35 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (a865a81415b2aeef3332a4ebd3b50c48)] -> css selector: input#txtPassword]
+2020-04-26 20:04:304 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (a865a81415b2aeef3332a4ebd3b50c48)] -> css selector: input.button]
+2020-04-26 20:04:306 INFO  AccountPage :26 -  Verify text is displayed [[ChromeDriver: chrome on WINDOWS (a865a81415b2aeef3332a4ebd3b50c48)] -> xpath: //a[@id='welcome']]
+2020-04-26 20:04:933 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 20:04:966 INFO  HomePage :29 -  Enter email:<string> into the field [[ChromeDriver: chrome on WINDOWS (a627a8a43ec69612f6603e94e27b4472)] -> css selector: input#txtUsername]
+2020-04-26 20:04:74 INFO  HomePage :35 -  Enter password:<string> into the field [[ChromeDriver: chrome on WINDOWS (a627a8a43ec69612f6603e94e27b4472)] -> css selector: input#txtPassword]
+2020-04-26 20:04:532 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (a627a8a43ec69612f6603e94e27b4472)] -> css selector: input.button]
+2020-04-26 20:04:511 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 20:04:13 INFO  HomePage :29 -  Enter email:<username> into the field [[ChromeDriver: chrome on WINDOWS (7b4d710557f8daf3cf5bfdec18e92ed8)] -> css selector: input#txtUsername]
+2020-04-26 20:04:118 INFO  HomePage :35 -  Enter password:<admin123> into the field [[ChromeDriver: chrome on WINDOWS (7b4d710557f8daf3cf5bfdec18e92ed8)] -> css selector: input#txtPassword]
+2020-04-26 20:04:738 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (7b4d710557f8daf3cf5bfdec18e92ed8)] -> css selector: input.button]
+2020-04-26 20:04:679 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 20:04:747 INFO  HomePage :29 -  Enter email:<username> into the field [[ChromeDriver: chrome on WINDOWS (f9a7444bcd3bba325f410d38f7156da8)] -> css selector: input#txtUsername]
+2020-04-26 20:04:847 INFO  HomePage :35 -  Enter password:<admin123> into the field [[ChromeDriver: chrome on WINDOWS (f9a7444bcd3bba325f410d38f7156da8)] -> css selector: input#txtPassword]
+2020-04-26 20:04:453 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (f9a7444bcd3bba325f410d38f7156da8)] -> css selector: input.button]
+2020-04-26 21:04:284 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 21:04:605 INFO  HomePage :29 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (f9a32dc08d2bd9c8affe6b09f4e26751)] -> css selector: input#txtUsername]
+2020-04-26 21:04:685 INFO  HomePage :35 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (f9a32dc08d2bd9c8affe6b09f4e26751)] -> css selector: input#txtPassword]
+2020-04-26 21:04:897 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (f9a32dc08d2bd9c8affe6b09f4e26751)] -> css selector: input.button]
+2020-04-26 21:04:921 INFO  AccountPage :29 -  Verify text is displayed [[ChromeDriver: chrome on WINDOWS (f9a32dc08d2bd9c8affe6b09f4e26751)] -> xpath: //a[@id='welcome']]
+2020-04-26 21:04:520 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 21:04:933 INFO  HomePage :29 -  Enter email:<username> into the field [[ChromeDriver: chrome on WINDOWS (9693e3302123c86b74855fa2de5757ed)] -> css selector: input#txtUsername]
+2020-04-26 21:04:19 INFO  HomePage :35 -  Enter password:<admin123> into the field [[ChromeDriver: chrome on WINDOWS (9693e3302123c86b74855fa2de5757ed)] -> css selector: input#txtPassword]
+2020-04-26 21:04:460 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (9693e3302123c86b74855fa2de5757ed)] -> css selector: input.button]
+2020-04-26 21:04:144 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 21:04:875 INFO  HomePage :29 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (621a69d9b8cd32f35b2a6e8327b631e3)] -> css selector: input#txtUsername]
+2020-04-26 21:04:941 INFO  HomePage :35 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (621a69d9b8cd32f35b2a6e8327b631e3)] -> css selector: input#txtPassword]
+2020-04-26 21:04:37 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (621a69d9b8cd32f35b2a6e8327b631e3)] -> css selector: input.button]
+2020-04-26 21:04:59 INFO  AccountPage :29 -  Verify text is displayed [[ChromeDriver: chrome on WINDOWS (621a69d9b8cd32f35b2a6e8327b631e3)] -> xpath: //a[@id='welcome']]
+2020-04-26 21:04:35 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 21:04:750 INFO  HomePage :29 -  Enter email:<username> into the field [[ChromeDriver: chrome on WINDOWS (dde496ce6629639715f4207be0aa4b82)] -> css selector: input#txtUsername]
+2020-04-26 21:04:830 INFO  HomePage :35 -  Enter password:<admin123> into the field [[ChromeDriver: chrome on WINDOWS (dde496ce6629639715f4207be0aa4b82)] -> css selector: input#txtPassword]
+2020-04-26 21:04:362 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (dde496ce6629639715f4207be0aa4b82)] -> css selector: input.button]
+2020-04-26 21:04:133 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 21:04:384 INFO  HomePage :29 -  Enter email:<username> into the field [[ChromeDriver: chrome on WINDOWS (1f528f5e99b461fa9a4ece8ff5d9da56)] -> css selector: input#txtUsername]
+2020-04-26 21:04:469 INFO  HomePage :35 -  Enter password:<admin123> into the field [[ChromeDriver: chrome on WINDOWS (1f528f5e99b461fa9a4ece8ff5d9da56)] -> css selector: input#txtPassword]
+2020-04-26 21:04:983 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (1f528f5e99b461fa9a4ece8ff5d9da56)] -> css selector: input.button]
+2020-04-26 22:04:748 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 22:04:245 INFO  HomePage :29 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (055acefd8f9c03887c33425a7be5f9f0)] -> css selector: input#txtUsername]
+2020-04-26 22:04:312 INFO  HomePage :35 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (055acefd8f9c03887c33425a7be5f9f0)] -> css selector: input#txtPassword]
+2020-04-26 22:04:541 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (055acefd8f9c03887c33425a7be5f9f0)] -> css selector: input.button]
+2020-04-26 22:04:623 INFO  LeaveListPage :25 -  clicking on leave list link[[ChromeDriver: chrome on WINDOWS (055acefd8f9c03887c33425a7be5f9f0)] -> xpath: //td[2]//div[1]//a[1]//img[1]]
+2020-04-26 22:04:732 INFO  LeaveListPage :30 - Get text from Employee leave page Proxy element for: DefaultElementLocator 'By.xpath: //label[contains(text(),'Show Leave with Status')]'
+2020-04-26 23:04:859 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 23:04:294 INFO  HomePage :29 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (6cf9545da1b25264a1ea7b383070eeb6)] -> css selector: input#txtUsername]
+2020-04-26 23:04:363 INFO  HomePage :35 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (6cf9545da1b25264a1ea7b383070eeb6)] -> css selector: input#txtPassword]
+2020-04-26 23:04:540 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (6cf9545da1b25264a1ea7b383070eeb6)] -> css selector: input.button]
+2020-04-26 23:04:604 INFO  LeaveListPage :34 -  clicking on leave list link[[ChromeDriver: chrome on WINDOWS (6cf9545da1b25264a1ea7b383070eeb6)] -> xpath: //td[2]//div[1]//a[1]//img[1]]
+2020-04-26 23:04:701 INFO  LeaveListPage :39 - Get text from Employee leave page Proxy element for: DefaultElementLocator 'By.xpath: //label[contains(text(),'Show Leave with Status')]'
+2020-04-26 23:04:740 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 23:04:466 INFO  HomePage :29 -  Enter email:<string> into the field [[ChromeDriver: chrome on WINDOWS (519a29e401339e58366d6a68b04e3ca7)] -> css selector: input#txtUsername]
+2020-04-26 23:04:542 INFO  HomePage :35 -  Enter password:<string> into the field [[ChromeDriver: chrome on WINDOWS (519a29e401339e58366d6a68b04e3ca7)] -> css selector: input#txtPassword]
+2020-04-26 23:04:957 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (519a29e401339e58366d6a68b04e3ca7)] -> css selector: input.button]
+2020-04-26 23:04:125 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 23:04:633 INFO  HomePage :29 -  Enter email:<string> into the field [[ChromeDriver: chrome on WINDOWS (504b555a17228197f0f7b5f38ebb6f86)] -> css selector: input#txtUsername]
+2020-04-26 23:04:703 INFO  HomePage :35 -  Enter password:<string> into the field [[ChromeDriver: chrome on WINDOWS (504b555a17228197f0f7b5f38ebb6f86)] -> css selector: input#txtPassword]
+2020-04-26 23:04:34 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (504b555a17228197f0f7b5f38ebb6f86)] -> css selector: input.button]
+2020-04-26 23:04:754 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-26 23:04:100 INFO  HomePage :29 -  Enter email:<string> into the field [[ChromeDriver: chrome on WINDOWS (610952d62611febdb11e7beb53775a2a)] -> css selector: input#txtUsername]
+2020-04-26 23:04:170 INFO  HomePage :35 -  Enter password:<string> into the field [[ChromeDriver: chrome on WINDOWS (610952d62611febdb11e7beb53775a2a)] -> css selector: input#txtPassword]
+2020-04-26 23:04:598 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (610952d62611febdb11e7beb53775a2a)] -> css selector: input.button]
+2020-04-27 09:04:855 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-27 09:04:09 INFO  HomePage :29 -  Enter email:<string> into the field [[ChromeDriver: chrome on WINDOWS (a25e520a3e1efa5f44058cf95886a8be)] -> css selector: input#txtUsername]
+2020-04-27 09:04:102 INFO  HomePage :35 -  Enter password:<string> into the field [[ChromeDriver: chrome on WINDOWS (a25e520a3e1efa5f44058cf95886a8be)] -> css selector: input#txtPassword]
+2020-04-27 09:04:794 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (a25e520a3e1efa5f44058cf95886a8be)] -> css selector: input.button]
+2020-04-27 15:04:706 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-27 15:04:176 INFO  HomePage :29 -  Enter email:<string> into the field [[ChromeDriver: chrome on WINDOWS (fbf4967514ada3cd4d2e4c2803780f38)] -> css selector: input#txtUsername]
+2020-04-27 15:04:279 INFO  HomePage :35 -  Enter password:<string> into the field [[ChromeDriver: chrome on WINDOWS (fbf4967514ada3cd4d2e4c2803780f38)] -> css selector: input#txtPassword]
+2020-04-27 15:04:156 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (fbf4967514ada3cd4d2e4c2803780f38)] -> css selector: input.button]
+2020-04-27 15:04:61 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-27 15:04:850 INFO  HomePage :29 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (4d8968dd0a70d9713e200659b235613c)] -> css selector: input#txtUsername]
+2020-04-27 15:04:933 INFO  HomePage :35 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (4d8968dd0a70d9713e200659b235613c)] -> css selector: input#txtPassword]
+2020-04-27 15:04:347 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (4d8968dd0a70d9713e200659b235613c)] -> css selector: input.button]
+2020-04-27 15:04:164 INFO  LeaveListPage :35 -  clicking on leave list linkProxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Leave List')]'
+2020-04-27 15:04:311 INFO  LeaveListPage :47 -  Enter employee name in leave list[[ChromeDriver: chrome on WINDOWS (4d8968dd0a70d9713e200659b235613c)] -> xpath: //input[@id='leaveList_txtEmployee_empName']]
+2020-04-27 15:04:334 INFO  LeaveListPage :52 -  Clicking on search button[[ChromeDriver: chrome on WINDOWS (4d8968dd0a70d9713e200659b235613c)] -> xpath: //input[@id='btnSearch']]
+2020-04-27 15:04:371 INFO  LeaveListPage :56 -  Verify employee name text [[ChromeDriver: chrome on WINDOWS (4d8968dd0a70d9713e200659b235613c)] -> xpath: //a[contains(text(),'Linda Anderson')]]
+2020-04-27 15:04:172 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-27 15:04:432 INFO  HomePage :29 -  Enter email:username into the field [[ChromeDriver: chrome on WINDOWS (e7b163267d99556712600374bc82654b)] -> css selector: input#txtUsername]
+2020-04-27 15:04:528 INFO  HomePage :35 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (e7b163267d99556712600374bc82654b)] -> css selector: input#txtPassword]
+2020-04-27 15:04:149 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (e7b163267d99556712600374bc82654b)] -> css selector: input.button]
+2020-04-27 15:04:226 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-27 15:04:922 INFO  HomePage :29 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (4f8ea7d83142ddeb13f0dfea81ec7761)] -> css selector: input#txtUsername]
+2020-04-27 15:04:25 INFO  HomePage :35 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (4f8ea7d83142ddeb13f0dfea81ec7761)] -> css selector: input#txtPassword]
+2020-04-27 15:04:605 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (4f8ea7d83142ddeb13f0dfea81ec7761)] -> css selector: input.button]
+2020-04-27 15:04:691 INFO  AccountPage :44 -  Click on welcome admin button [[ChromeDriver: chrome on WINDOWS (4f8ea7d83142ddeb13f0dfea81ec7761)] -> css selector: a.panelTrigger]
+2020-04-27 15:04:868 INFO  AccountPage :50 -  Click on logout link [[ChromeDriver: chrome on WINDOWS (4f8ea7d83142ddeb13f0dfea81ec7761)] -> xpath: //a[contains(text(),'Logout')]]
+2020-04-27 15:04:921 INFO  HomePage :45 -  Verify login panel text Proxy element for: DefaultElementLocator 'By.xpath: //div[@id='logInPanelHeading']'
+2020-04-27 15:04:457 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-27 15:04:320 INFO  HomePage :29 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (cdbac3e5e5c9e495fa59f3390cb11f7e)] -> css selector: input#txtUsername]
+2020-04-27 15:04:398 INFO  HomePage :35 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (cdbac3e5e5c9e495fa59f3390cb11f7e)] -> css selector: input#txtPassword]
+2020-04-27 15:04:756 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (cdbac3e5e5c9e495fa59f3390cb11f7e)] -> css selector: input.button]
+2020-04-27 15:04:839 INFO  AccountPage :44 -  Click on welcome admin button [[ChromeDriver: chrome on WINDOWS (cdbac3e5e5c9e495fa59f3390cb11f7e)] -> css selector: a.panelTrigger]
+2020-04-27 15:04:35 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-27 15:04:45 INFO  HomePage :29 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (fb9fac97d95f4ef17d7360658e0ce190)] -> css selector: input#txtUsername]
+2020-04-27 15:04:140 INFO  HomePage :35 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (fb9fac97d95f4ef17d7360658e0ce190)] -> css selector: input#txtPassword]
+2020-04-27 15:04:354 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (fb9fac97d95f4ef17d7360658e0ce190)] -> css selector: input.button]
+2020-04-27 15:04:423 INFO  AccountPage :44 -  Click on welcome admin button [[ChromeDriver: chrome on WINDOWS (fb9fac97d95f4ef17d7360658e0ce190)] -> css selector: a.panelTrigger]
+2020-04-27 16:04:320 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-27 16:04:822 INFO  HomePage :29 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (ffa47a93c7ea7b0d8d02ba0570e9e8b3)] -> css selector: input#txtUsername]
+2020-04-27 16:04:898 INFO  HomePage :35 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (ffa47a93c7ea7b0d8d02ba0570e9e8b3)] -> css selector: input#txtPassword]
+2020-04-27 16:04:866 INFO  HomePage :41 -  Click on login button [[ChromeDriver: chrome on WINDOWS (ffa47a93c7ea7b0d8d02ba0570e9e8b3)] -> css selector: input.button]
+2020-04-27 16:04:950 INFO  AccountPage :44 -  Click on welcome admin button [[ChromeDriver: chrome on WINDOWS (ffa47a93c7ea7b0d8d02ba0570e9e8b3)] -> css selector: a.panelTrigger]
+2020-04-27 16:04:513 INFO  AccountPage :51 -  Click on logout link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Logout')]'
+2020-04-27 16:04:540 INFO  HomePage :45 -  Verify login panel text [[ChromeDriver: chrome on WINDOWS (ffa47a93c7ea7b0d8d02ba0570e9e8b3)] -> xpath: //div[@id='logInPanelHeading']]

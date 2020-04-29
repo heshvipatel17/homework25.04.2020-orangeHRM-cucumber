@@ -1,0 +1,180 @@
+[
+  {
+    "line": 1,
+    "name": "Orangehrm Leave Test",
+    "description": "As a user I want to navigate to login page successfully",
+    "id": "orangehrm-leave-test",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/demo/orangehrm/resources/featurefile/leave.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "comments": [
+          {
+            "line": 4,
+            "value": "#  Scenario: user should navigate to login page successfully"
+          },
+          {
+            "line": 5,
+            "value": "#    Given I am on home page"
+          },
+          {
+            "line": 6,
+            "value": "#    When I enter username \"Admin\""
+          },
+          {
+            "line": 7,
+            "value": "#    And I enter password \"admin123\""
+          },
+          {
+            "line": 8,
+            "value": "#    And I click on login button"
+          },
+          {
+            "line": 9,
+            "value": "#    Then I should see the \"Welcome Admin\" text"
+          }
+        ],
+        "before": [
+          {
+            "result": {
+              "duration": 13271070000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "verify text when user logout",
+        "description": "",
+        "id": "orangehrm-login-test;verify-text-when-user-logout",
+        "after": [
+          {
+            "result": {
+              "duration": 637148500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 93239800,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I am on home page",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 109042300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter username \"Admin\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 18
+                }
+              ],
+              "location": "MyStepdefs.iEnterUsername(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 74792400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter password \"admin123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "admin123",
+                  "offset": 18
+                }
+              ],
+              "location": "MyStepdefs.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4966395900,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on login button",
+            "match": {
+              "location": "MyStepdefs.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 83592900,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I click on welcome admin button",
+            "match": {
+              "location": "MyStepdefs.iClickOnWelcomeAdminButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11561472500,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I click on logout button",
+            "match": {
+              "location": "MyStepdefs.iClickOnLogoutButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 44271300,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "verify \"LOGIN Panel\" text",
+            "match": {
+              "arguments": [
+                {
+                  "val": "LOGIN Panel",
+                  "offset": 8
+                }
+              ],
+              "location": "MyStepdefs.verifyText(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Orangehrm Login Test",
+    "description": "As a user I want to navigate to login page successfully",
+    "id": "orangehrm-login-test",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/demo/orangehrm/resources/featurefile/login.feature"
+  }
+]
